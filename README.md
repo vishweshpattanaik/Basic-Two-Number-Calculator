@@ -1,4 +1,4 @@
-# Two-Number Calculator
+# Two-Number Calculator 📲
 
 Welcome to the Two-Number Calculator repository! 
 This simple calculator can perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers.
@@ -6,7 +6,7 @@ It's designed to demonstrate fundamental programming concepts and serve as a fou
 
 ## Features
 
-- Addition of two numbers
-- Subtraction of two numbers
-- Multiplication of two numbers
-- Division of two numbers
+- Addition of two numbers ➕
+- Subtraction of two numbers ➖
+- Multiplication of two numbers ✖️
+- Division of two numbers ➗
